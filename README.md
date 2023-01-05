@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @alexbotha
-- 👀 I’m interested in Front end development...
-- 🌱 I’m currently studying at Flatiron School
-- 💞️ I’m looking to collaborate on small front end focused web design projects
+- 👀 I’m interested in Full Stack Engineering...
+- 🌱 I’m currently studying at Flatiron School | JS, React.js, Ruby, Rails, SQL
 - 📫 How to reach me alexbotha@hotmail.co.uk
 
 <!---
