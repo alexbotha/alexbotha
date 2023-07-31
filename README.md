@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexbotha
-- 👀 I’m interested in Full Stack Engineering...
-- 🌱 I’m currently studying at Flatiron School | JS, React.js, Ruby, Rails, SQL
+- 👀 Currently learning Python 
+- 🌱 Flatiron School graduate | JavaScript, React.js, Ruby, Rails, SQL
 - 📫 How to reach me alexbotha@hotmail.co.uk
 
 <!---
