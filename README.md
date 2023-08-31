@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Python and Flask**
 
-- 👨‍💻 All of my projects are available at [tbc](tbc)
+- 👨‍💻 All of my projects will be available on my website - status: currently in progress 
 
 - 📝 I regularly write articles on [https://medium.com/@alexbotha_18115](https://medium.com/@alexbotha_18115)
 
-- 💬 Ask me about **JavaScript, Python, React.js, stoicism, web3 or Arsenal **
+- 💬 Ask me about **JavaScript, Python, stoicism, web3 or Arsenal**
 
 - 📫 How to reach me **alexbotha@hotmail.co.uk**
 
