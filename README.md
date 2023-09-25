@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@alexbotha_18115](https://medium.com/@alexbotha_18115)
 
-- 💬 Ask me about **JavaScript, Python, stoicism, web3 or Arsenal**
+- 💬 Ask me about **JavaScript, Python, or what I'm currently reading!**
 
 - 📫 How to reach me **alexbotha@hotmail.co.uk**
 
