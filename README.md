@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexbotha&label=Profile%20views&color=0e75b6&style=flat" alt="alexbotha" /> </p>
 
-- 🔭 I’m currently working on [My personal portfolio](https://github.com/alexbotha/portfolio-site)
+- 🔭 I’m currently a Tech Trainee at La Fosse.
 
-- 🌱 I’m currently learning **Python and Flask**
+- 🌱 Currently learning **Python and Flask** while cemeting my knowledge in **JS and React**
 
 - 👨‍💻 All of my projects will be available on my website - status: currently in progress 
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **alexbotha@hotmail.co.uk**
 
-- ⚡ Fun fact **The most northern part of California is more north than the most southern part of Canada**
+- ⚡ Fun fact **Although I've grown up in England I am originally from Harare, Zimbabwe**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
