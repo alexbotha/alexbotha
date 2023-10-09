@@ -5,17 +5,17 @@
 
 - 🔭 I’m currently a Tech Trainee at La Fosse.
 
-- 🌱 Currently learning **Python and Flask** while cemeting my knowledge in **JS and React**
+- 🌱 Currently learning **Python and Flask** while cemeting my knowledge in **JS and React**.
 
-- 👨‍💻 All of my projects will be available on my website - status: currently in progress 
+- 👨‍💻 All of my projects will be available on my website - status: **currently in progress**.
 
-- 📝 I regularly write articles on [https://medium.com/@alexbotha_18115](https://medium.com/@alexbotha_18115)
+- 📝 I regularly write articles on [https://medium.com/@alexbotha_18115](https://medium.com/@alexbotha_18115).
 
-- 💬 Ask me about **JavaScript, Python, or what I'm currently reading!**
+- 💬 Ask me about **JavaScript, Python, or what I'm currently reading!**.
 
-- 📫 How to reach me **alexbotha@hotmail.co.uk**
+- 📫 How to reach me **alexbotha@hotmail.co.uk**.
 
-- ⚡ Fun fact **Although I've grown up in England I am originally from Harare, Zimbabwe**
+- ⚡ Fun fact **Although I've grown up in England, I am originally from Harare, Zimbabwe**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
