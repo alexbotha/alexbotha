@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">A passionate Full Stack Developer from London</h3>
+<h3 align="center">A passionate Full Stack Developer from Wiltshire</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexbotha&label=Profile%20views&color=0e75b6&style=flat" alt="alexbotha" /> </p>
 
-- 🔭 I’m currently a Tech Trainee at La Fosse.
+- 🔭 I’m currently a Junior Software Engineer working in the aviation industry.
 
 - 🌱 Currently learning **Python and Flask** while cemeting my knowledge in **JS and React**.
 
@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@alexbotha_18115](https://medium.com/@alexbotha_18115).
 
-- 💬 Ask me about **JavaScript, Python, or what I'm currently reading!**.
+- 💬 Ask me about **Front end development or what I'm currently reading!**.
 
 - 📫 How to reach me **alexbotha@hotmail.co.uk**.
 
