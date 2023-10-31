@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently a Junior Software Engineer working in the aviation industry.
 
-- 🌱 Currently learning **Python and Flask** while cemeting my knowledge in **JS and React**.
+- 🌱 Currently learning **Python and Flask** in my freetime.
 
 - 👨‍💻 All of my projects will be available on my website - status: **currently in progress**.
 
