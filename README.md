@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently a Junior Software Engineer working in the aviation industry.
 
-- 🌱 In my freetime I've been upskilling by learning **Python and Flask**.
+- 🌱 In my freetime I've been upskilling by learning **Next.js and TS**.
 
 - 👨‍💻 All of my projects will be available on my website - status: **currently in progress**.
 
@@ -14,8 +14,6 @@
 - 💬 Ask me about **Front end development or what I'm currently reading!**.
 
 - 📫 How to reach me **alexbotha@hotmail.co.uk**.
-
-- ⚡ Fun fact **Although I've grown up in England, I am originally from Harare, Zimbabwe**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
