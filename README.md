@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects will be available on my website - status: **currently in progress**.
 
-- 📝 I regularly write articles on [https://medium.com/@alexbotha_18115](https://medium.com/@alexbotha_18115).
+- 📝 Interested in what I've been up to? I write articles every quarter on my journey [https://medium.com/@alexbotha_18115](https://medium.com/@alexbotha_18115).
 
 - 💬 Ask me about **Front end development or what I'm currently reading!**.
 
