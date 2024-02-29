@@ -21,7 +21,7 @@
 <a href="https://medium.com/@alexbotha_18115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alexbotha_18115" height="30" width="40" /></a>
 </p>
 
-<h2 align="left">Languages, Frameworks, Libraries and Tools:</h2>
+<h2 align="left">Languages, Frameworks, Libraries, and Tools:</h2>
 
 ###
 
