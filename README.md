@@ -11,9 +11,9 @@
 
 - 📝 Interested in what I've been up to? I write articles every quarter on my journey [https://medium.com/@alexbotha_18115](https://medium.com/@alexbotha_18115).
 
-- 💬 Ask me about **Front end development or what I'm currently reading!**.
+- 💬 Ask me about **Front end development or what I'm currently reading!**
 
-- 📫 How to reach me **alexbotha@hotmail.co.uk**.
+- 📫 You can reach me via **alexbotha@hotmail.co.uk**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,7 +21,7 @@
 <a href="https://medium.com/@alexbotha_18115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alexbotha_18115" height="30" width="40" /></a>
 </p>
 
-<h2 align="left">Languages, Frameworks, Libraries, and Tools:</h2>
+<h2 align="left">Tools and Technologies:</h2>
 
 ###
 
